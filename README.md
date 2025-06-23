@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **AI-powered caching-aware adaptive routing – Researching optimized routing solutions.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-beryl-beta-49.vercel.app/](https://portfolio-beryl-beta-49.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-beryl-beta-49.vercel.app/]([https://portfolio-beryl-beta-49.vercel.app/](https://portfolio-vikesh-mehta.vercel.app/))
 
 - 💬 Ask me about **React.js, Vue.js, GSAP animations, and AI-powered web solutions.**
 
