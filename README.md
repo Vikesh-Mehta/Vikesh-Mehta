@@ -1,86 +1,115 @@
 <h1 align="center">👋 Hi, I'm Vikesh Mehta</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS Logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" alt="React Logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python Logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-icon.svg" width="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="44" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="44" />
 </p>
 
-<h3 align="center">Cloud/DevOps Engineer | AWS Specialist | AI Enthusiast</h3>
+<h3 align="center">Full Stack | AI Developer | Innovator</h3>
+<p align="center">🚀 Transforming Ideas into Intelligent, Scalable Solutions</p>
 
 ---
 
-### 🚀 About Me
+## 🏆 Achievements & Recognition
 
-- **Cloud Infrastructure Professional** specializing in AWS, DevOps, and automation.
-- Enthusiastic about transforming ideas into intelligent, scale-ready solutions—across web, cloud, and AI-powered projects.
-- Passionate about professional development, technical best practices, and open-source contributions.
-
----
-
-### 🛠️ Current Projects
-
-- **Crafted Visions:** Dynamic animated React project ([Live Demo](https://portfolio-vikesh-mehta.vercel.app/))
-- **Interview Prep Platform:** Building an AI-powered platform to enhance interview experiences.
-- **Routing Research:** Exploring adaptive, caching-aware AI routing for cloud applications.
+- 🎤 Presented research at "Viksit Bharat 2024", selected among 168K+ applicants
+- 🏆 Smart India Hackathon ’24 Finalist | AI-Xplain Hackathon ’25 (2'nd Round) | Microsoft AI Skills Challenge ’24 – Certified
+- 🗣️ National Conference Speaker ("VIVIBHA’24", SGT University)
+- 🌍 Maintainer & Contributor to open source, React repos, driving 5% user growth/month
 
 ---
 
-### 📚 Skills & Tech Stack
+## 🔥 Featured Projects
 
-- **Cloud & DevOps:** AWS (EC2, Lambda, IAM, Route 53, VPC), CloudFormation, S3, Redshift, EBS, Git, Docker.
-- **Web & Frontend:** React.js, Vue.js, Next.js, Tailwind CSS, GSAP, HTML, CSS, JS, Bootstrap.
-- **Programming:** Python, JavaScript/TypeScript, C, C++, Java, Django, Flask, Node.js, Express.
-- **Data & ML:** Pandas, scikit-learn, TensorFlow, OpenCV, MongoDB, MySQL, Firebase.
-- **Tools:** Postman, Figma, GitHub, Linux, Matlab.
+### **Smart Health – Rural Healthcare Platform**  
+*React, TypeScript, Supabase, PostgreSQL*  
+- 🧬 AI-powered platform for rural medical assistance (50+ smart health booths)
+- 🔒 Enhanced healthcare accessibility by 40%, deployed RLS for data privacy
+- 💡 300+ active users, responsive design for all devices
+
+### **Plot Weaver – AI Storytelling**  
+*Flask, Google Gemini, HTML/CSS/JS*  
+- 🪄 Generative AI web-app, 100+ daily users
+- 🚦 CI/CD automation, 40% faster deployments  
+- ⚡ 30% faster app UI via lazy load/scripts  
+
+### **BudgetBuddy – Expense Tracker**  
+*React, Node.js, Express, MongoDB*  
+- 🪙 Visualization-rich tracker, 250+ users, 25% budgeting gain  
+- ⚡ Tuned DB, 50% API latency reduction
+
+### **GitConnect – GitHub Profile Platform**  
+*MERN, GitHub OAuth, Passport.js*  
+- 🔗 Managed repo insights—1,000+ repos indexed, 98% login success  
+- 📖 Authored onboarding, API docs—60% faster contributor ramp-up  
 
 ---
 
-### 🤝 Collaboration & Learning
+## 🚧 Skills & Toolbox
 
-- Looking to **collaborate** on cloud, AI, and web projects.
-- Open to **networking** with professionals passionate about scalable infrastructure and innovative tech.
-- **Ask me about** cloud deployments, AWS best practices, serverless architectures, and technical interview prep.
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typeorm/typeorm-original.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-icon.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-icon.svg" width="34" />
+</p>
+
+**Languages:** Python, JavaScript, TypeScript, C++<br>
+**Frameworks:** React.js, Node.js, Express.js, Flask, Tailwind CSS<br>
+**Databases:** MongoDB, MySQL, PostgreSQL<br>
+**AI/ML:** Gemini API, WatsonX, Scikit-learn, Pandas, OpenCV<br>
+**DevTools:** Git, Docker, Postman, Figma, Chart.js
 
 ---
 
-### 📫 Contact & Links
+## 📜 Certifications & Academics
 
-- **Email:** vikeshmehta49@gmail.com
-- **Portfolio:** [portfolio-vikesh-mehta.vercel.app](https://portfolio-vikesh-mehta.vercel.app/)
-- **Resume:** [Download PDF](https://drive.google.com/file/d/1Nlum69-ac45MenF2RWToWLK7z9sLeGCK/view?usp=sharing)
+- 🥇 Full Stack Web Development (SMARTBRIDGE)
+- 🤖 Generative AI Using IBM WatsonX
+- ☁️ NPTEL Cloud Computing
+- 🎓 B.Tech CSE, VIT Bhopal | CGPA: 8.7/10
+- 📚 Key Courses: DSA, OOP, OS, RDBMS, Web Engineering, REST, ML, Cloud Architecture
 
 ---
 
-### 🌐 Socials
+## 💡 Problem Solving
+
+- 🏅 150+ Data Structures & Algorithms problems solved on [LeetCode](https://leetcode.com/u/VikeshMehta), [GeeksforGeeks](https://geeksforgeeks.org/user/vikeshmhirm/) – **Strong analytical skills!**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vikesh-mehta/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://kaggle.com/vikeshmehta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/vikesh_mehta27" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/vikeshmehta49" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/vikesh_mehta/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@vikeshmehta49/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/vikeshmhirm/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vikesh-mehta/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="33" /></a>
+  <a href="https://github.com/Vikesh-Mehta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="33" /></a>
+  <a href="https://leetcode.com/u/VikeshMehta/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="33" /></a>
+  <a href="https://www.geeksforgeeks.org/user/vikeshmhirm/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="33" /></a>
 </p>
 
----
-
-### ⚡ Fun Fact
-
-**I turn coffee into code. Errors? Into features! 🚀😆**
+📨 Email: **vikeshmehta49@gmail.com**  
+🌐 Portfolio: [portfolio-beryl-beta-49.vercel.app](https://portfolio-beryl-beta-49.vercel.app)  
+📄 [Resume PDF](https://drive.google.com/file/d/1Nlum69-ac45MenF2RWToWLK7z9sLeGCK/view?usp=sharing)
 
 ---
 
-<details>
-  <summary><b>Languages & Tools</b></summary>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <!-- add others as needed -->
-  </p>
-</details>
+## ⚡ Fun Fact
 
----
-
+**I turn coffee into code and bugs into features!** ☕💻✨
