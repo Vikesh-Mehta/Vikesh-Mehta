@@ -106,7 +106,7 @@
 
 📨 Email: **vikeshmehta49@gmail.com**  
 🌐 Portfolio: [portfolio-beryl-beta-49.vercel.app](https://portfolio-beryl-beta-49.vercel.app)  
-📄 [Resume PDF](https://drive.google.com/file/d/1Nlum69-ac45MenF2RWToWLK7z9sLeGCK/view?usp=sharing)
+📄 [Resume PDF]([https://drive.google.com/file/d/1Nlum69-ac45MenF2RWToWLK7z9sLeGCK/view?usp=sharing](https://drive.google.com/file/d/1CCTWOHhNbvZrhunmbXRtuSJw8_9FNfPp/view?usp=sharing))
 
 ---
 
